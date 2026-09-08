@@ -1,2 +1,2 @@
-version-number==1.1；
-QQ群==808033908；
+version-number==1.0；
+QQ群==808033909；
